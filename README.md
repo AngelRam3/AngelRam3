@@ -1,4 +1,5 @@
-### Hi there 👋
+### I am a WSU COMPSCI student
+### How to reach me: angel.ramirez1@wsu.edu
 
 <!--
 **AngelRam3/AngelRam3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
